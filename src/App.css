@@ -1,0 +1,50 @@
+.todo {
+  margin-left: 80%;
+  background-color: gainsboro;
+  width: 500px;
+  height: auto;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+input {
+  padding: 20px;
+  border-radius: 10px;
+  border-color: aliceblue;
+  padding-right: 50px;
+
+}
+
+.add-btn {
+  margin-left: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.delete-btn {
+  margin-left: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 20px;
+}
+
+.move-btn {
+  margin-left: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.down-btn {
+  margin-left: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/*li {
+  border: 2px solid rgb(189, 183, 183);
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+*/
